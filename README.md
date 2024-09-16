@@ -4,7 +4,3 @@
 I've never really considered this before. The last time I did need to use some sort of library from the internet, I used the first one that appeared on the search engine and was described as easy to use.
 
 I think the article is a great reminder for me.
-
-# comment by Boming Zhang
-great
-
